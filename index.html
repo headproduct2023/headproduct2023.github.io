@@ -10,7 +10,7 @@
   <meta name="description" content="">
 
 
-  <title>Homepage</title>
+  <title>Start</title>
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
